@@ -2,10 +2,9 @@
 	font-size: 48px;
 	color: white;
 	text-align: center;
-	top: 12px;
+	vertical-align: middle;
 }
 
 body {
     background-image: url('http://media.giphy.com/media/2C8Kf24dnrYNW/giphy.gif');
-    background-color: #cccccc;
 }
