@@ -1,7 +1,9 @@
 .banner h1 {
-	font-size: 30px;
+	font-size: 36px;
+	color: white;
 }
 
-.banner img {
-	width: 100%;
+body {
+    background-image: url('http://media.giphy.com/media/Qgx8fFTysBHYQ/giphy.gif');
+    background-color: #cccccc;
 }
