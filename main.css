@@ -1,6 +1,7 @@
 .jumbotron {
 	/*background-image: url(Space_Mountain_no_reflection.jpg);*/
-	border-color: black;
+	border-style: solid;
+
 }
 
 .jumbotron .container{
