@@ -1,10 +1,6 @@
 .jumbotron {
 	/*background-image: url(Space_Mountain_no_reflection.jpg);*/
-	height: 50%;
+	height: 100%;
 	border-style: solid;
 
-}
-
-.jumbotron .container{
-	position: relative;
 }
