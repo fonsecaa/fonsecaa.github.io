@@ -1,7 +1,8 @@
 .jumbotron {
-	background-image: url('http://www.hdwallsource.com/img/2014/6/nebula-wallpaper-hd-8411-8744-hd-wallpapers.jpg');
+	height: 100%
+	background-image: url('Space_Mountain_no_reflection.jpg');
 }
 
-.jumbotron h1 {
+.jumbotron .container h1 {
 	color: white;
 }
