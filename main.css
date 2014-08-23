@@ -1,10 +1,8 @@
-.banner h1 {
-	font-size: 48px;
-	color: white;
-	text-align: center;
-	vertical-align: middle;
+.jumbotron {
+	background-image: 'Space Mountain.jpeg'
+	width: 100%;
 }
 
-body {
-    background-image: url('http://media.giphy.com/media/2C8Kf24dnrYNW/giphy.gif');
+.jumbotron h1 {
+	color: white;
 }
