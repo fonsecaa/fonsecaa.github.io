@@ -2,6 +2,10 @@
 	height: 40px;
 }
 
+.nav a {
+	display: inline;
+}
+
 .jumbotron {
 	background-image: 
 		url('http://www.nexus-wallpaper.com/wp-content/uploads/2013/01/misty-mountains.jpg');
