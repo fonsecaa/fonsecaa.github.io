@@ -1,5 +1,6 @@
 .jumbotron {
 	background-image: url('Space_Mountain.jpg');
+	width: 100%;
 }
 
 .jumbotron h1 {
