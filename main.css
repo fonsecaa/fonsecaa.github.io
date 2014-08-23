@@ -1,6 +1,6 @@
 .jumbotron {
 	background-image: 
-		url('http://www.nexus-wallpaper.com/wp-content/uploads/2013/01/misty-mountains.jpg');
+		url('http://www.nexus-wallpaper.com/wp-content/uploads/2013/01/misty-mountains.jpg') no repeat;
 	height: 400px;
 	width: 100%;
 	border-style: solid;
