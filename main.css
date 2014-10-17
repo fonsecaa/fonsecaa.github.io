@@ -1,6 +1,6 @@
 .title_space {
 	height: 480px;
-	width: 50%;
+	width: 100%;
 	padding: 24px;
 	background-color: gray;
 	border-style: dashed;
@@ -9,6 +9,6 @@
 .title_text {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	border-style: dashed;
-	padding: 12px;
+	padding: 24px;
 	
 }
