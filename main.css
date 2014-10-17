@@ -1,9 +1,8 @@
 .title_space {
 	height: 480px;
 	padding: 24px;
-	background-image: url('hanston.jpg');
-	background-position: center center, center top;
-  background-repeat: repeat, no-repeat;
+	background: url('hanston.jpg');
+	background-size: cover;
 	border-style: dashed;
 }
 
