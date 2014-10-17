@@ -1,4 +1,9 @@
 .title_space {
+	height: 480px;
 	background-color: gray;
 	border-style: dashed;
+}
+
+.title_text {
+	font-family: "Lucinda Sans Unicode"
 }
