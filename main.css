@@ -7,5 +7,6 @@
 
 .title_text {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	text-align: center;
+	position: relative;
+	right: 10px;
 }
