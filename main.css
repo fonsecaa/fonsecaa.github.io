@@ -2,7 +2,7 @@
 	height: 480px;
 	padding: 24px;
 	background: url('hanston.jpg') no-repeat center center fixed;
-	background-size: 480px;
+	background-size: 100%;
 	border-style: dashed;
 }
 
