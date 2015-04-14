@@ -1,7 +1,7 @@
 .title_space {
 	height: 480px;
 	padding: 24px;
-	background: url('hanston.jpg') no-repeat center center;
+	background: url('hanston.jpg');
 	background-size: 100%;
 	border-style: dashed;
 }
