@@ -2,7 +2,7 @@
 	margin-left: auto;
 	margin-right: auto;
 	width: 60%;
-	border-style: dashed;
+	/*border-style: dashed;*/
 }
 
 .portrait h1 {
@@ -16,8 +16,12 @@
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+
 	border-radius: 50%;
-	border-style: dashed;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+
+	/*border-style: dashed;*/
 }
 
 
