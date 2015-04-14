@@ -11,9 +11,9 @@
 }
 
 .circular {
-	height: 40%;
-	width: 40%;
+	width: 240px;
 	background-image: url("linkedinprofpic_sq.jpg") no-repeat;
+	border-radius: 50%;
 	border-style: dashed;
 }
 
