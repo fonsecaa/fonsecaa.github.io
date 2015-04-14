@@ -11,7 +11,8 @@
 
 .portrait img {
 	width: 40%;
-	margin: auto;
+	margin-left: auto;
+	margin-right: auto;
 	border-style: dashed;
 }
 
