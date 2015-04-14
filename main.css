@@ -6,7 +6,8 @@
 }
 
 .portrait img {
-	height: 240px;
+	height: 10%;
+	margin: 0 auto;
 	border-style: dashed;
 }
 
