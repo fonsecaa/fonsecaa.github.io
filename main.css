@@ -1,6 +1,5 @@
 .portrait {
-	margin-right: auto;
-	margin-left: auto;
+	margin: 0 auto;
 	width: 50%;
 	border-style: dashed;
 
