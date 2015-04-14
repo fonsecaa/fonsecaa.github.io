@@ -1,6 +1,8 @@
 .portrait img{
 	height:600px;
 	width:60px;
+	opacity: 0.4;
+  filter: alpha(opacity=40);
 	border-style: dashed;
 }
 
