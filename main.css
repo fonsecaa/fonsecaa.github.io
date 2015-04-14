@@ -10,27 +10,14 @@
 	font-family: Verdana, Geneva, sans-serif;
 }
 
-.circular {
-	height: 240px;
-	width: 240px;
-	/*background-image: url("linkedinprofpic_sq.jpg");*/
-	border-radius: 50%;
-	border-style: dashed;
-}
 
-.circular img {
-	opacity: 0;
-	filter: alpha(opacity=0);
-	}
-
-/*
 .portrait img {
 	width: 40%;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	border-style: dashed;
-}*/
+}
 
 
 /*
