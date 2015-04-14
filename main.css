@@ -5,6 +5,10 @@
 
 }
 
+.portrait h1 {
+	text-align: center;
+}
+
 .portrait img {
 	width: 40%;
 	margin: auto;
