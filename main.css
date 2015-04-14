@@ -1,5 +1,12 @@
+.portrait {
+	margin-right: auto;
+	margin-left: auto;
+	width: 50%;
+
+}
+
 .portrait img {
-	height: 240px;
+	height: 100%;
 	border-style: dashed;
 }
 
